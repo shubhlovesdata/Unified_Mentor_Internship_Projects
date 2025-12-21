@@ -84,7 +84,7 @@ The following laptop was selected for testing:
 * **Specs:** 16 GB RAM / 512 GB SSD / Windows 11 Home / 6 GB Graphics (Nvidia GeForce RTX 3050)
 * **Display:** 15.6 Inches, 144 Hz
 * **Weight:** 2.1 Kg
-* **Current Retail Price:** ₹83,990
+* **Current Retail Price:** ₹74,990
 
 ![Flipkart Listing Screenshot](https://github.com/shubhlovesdata/Unified_Mentor_Internship_Projects/blob/ebaca7164dcc234debfeeddb1ddea40fa92f3a91/Laptop%20Price%20Analysis/Screenshot%202025-12-21%20111517.png)
 
@@ -101,7 +101,7 @@ Using the same configuration in our **Laptop Price Predictor** application:
 6. **OS:** Windows
 
 ![Model Prediction Screenshot1](https://github.com/shubhlovesdata/Unified_Mentor_Internship_Projects/blob/53f292ccfec7db021a9f2c81fefb3190f9bbf67b/Laptop%20Price%20Analysis/Screenshot%202025-12-21%20111728.png)
-![Model Prediction Screenshot2]()
+![Model Prediction Screenshot2](https://github.com/shubhlovesdata/Unified_Mentor_Internship_Projects/blob/38aa0c324d659294c019287d52017bcd4b155d8f/Laptop%20Price%20Analysis/Screenshot%202025-12-21%20111756.png)
 
 **Observation:** The model provides a price point closely aligned with the actual market value, demonstrating the effectiveness of the Random Forest Regressor and the feature engineering process.
 
