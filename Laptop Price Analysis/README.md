@@ -86,7 +86,7 @@ The following laptop was selected for testing:
 * **Weight:** 2.1 Kg
 * **Current Retail Price:** ₹83,990
 
-![Flipkart Listing Screenshot]("C:\Users\shubh\OneDrive\Pictures\Screenshots\Screenshot 2025-12-21 111517.png")
+![Flipkart Listing Screenshot](https://github.com/shubhlovesdata/Unified_Mentor_Internship_Projects/blob/ebaca7164dcc234debfeeddb1ddea40fa92f3a91/Laptop%20Price%20Analysis/Screenshot%202025-12-21%20111517.png)
 
 ---
 
