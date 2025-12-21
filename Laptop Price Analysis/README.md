@@ -68,7 +68,8 @@ A Scikit-Learn **Pipeline** was used to bundle the `ColumnTransformer` (for One-
 ---
 
 ## 🚀 How to Run
-1. Clone the repo: `git clone https://github.com/yourusername/laptop-price-predictor.git`
+1. Clone the repo: git clone [https://github.com/shubhlovesdata/Unified_Mentor_Internship_Projects.git](https://github.com/shubhlovesdata/Unified_Mentor_Internship_Projects.git)
+cd "Unified_Mentor_Internship_Projects/Laptop Price Analysis"
 2. Install requirements: `pip install -r requirements.txt`
 3. Run the app: `streamlit run app.py`
 
