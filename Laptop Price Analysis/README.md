@@ -76,7 +76,7 @@ A Scikit-Learn **Pipeline** was used to bundle the `ColumnTransformer` (for One-
 
 ## 📊 Results Comparison
 
-In this section, we validate the model's accuracy by comparing its prediction against a real-world retail listing from Amazon.
+In this section, we validate the model's accuracy by comparing its prediction against a real-world retail listing from Flipkart.
 
 ### Flipkart Price
 The following laptop was selected for testing:
@@ -105,4 +105,4 @@ Using the same configuration in our **Laptop Price Predictor** application:
 
 **Observation:** The model provides a price point closely aligned with the actual market value, demonstrating the effectiveness of the Random Forest Regressor and the feature engineering process.
 
-© 2025 | Developed by Your Name
+© 2025 | Developed by Shubhayan Baral
