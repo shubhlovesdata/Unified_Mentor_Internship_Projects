@@ -61,7 +61,7 @@ A Scikit-Learn **Pipeline** was used to bundle the `ColumnTransformer` (for One-
 ---
 
 ## 🛠 Tech Stack
-* **Language:** Python 3.8+
+* **Language:** Python 3
 * **Libraries:** Pandas, NumPy, Scikit-Learn, Seaborn, Matplotlib
 * **UI/UX:** Streamlit
 
