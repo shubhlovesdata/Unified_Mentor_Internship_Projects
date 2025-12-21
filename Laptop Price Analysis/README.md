@@ -73,4 +73,36 @@ A Scikit-Learn **Pipeline** was used to bundle the `ColumnTransformer` (for One-
 3. Run the app: `streamlit run app.py`
 
 ---
+
+## 📊 Results Comparison
+
+In this section, we validate the model's accuracy by comparing its prediction against a real-world retail listing from Amazon.
+
+### Flipkart Price
+The following laptop was selected for testing:
+* **Model:** Acer Nitro V Intel Core i5 13th Gen
+* **Specs:** 16 GB RAM / 512 GB SSD / Windows 11 Home / 6 GB Graphics (Nvidia GeForce RTX 3050)
+* **Display:** 15.6 Inches, 144 Hz
+* **Weight:** 2.1 Kg
+* **Current Retail Price:** ₹83,990
+
+![Flipkart Listing Screenshot]("C:\Users\shubh\OneDrive\Pictures\Screenshots\Screenshot 2025-12-21 111517.png")
+
+---
+
+### Predicted Price
+Using the same configuration in our **Laptop Price Predictor** application:
+
+1. **Brand:** Acer
+2. **Type:** Gaming
+3. **RAM:** 16 GB
+4. **CPU:** Intel Core i5
+5. **GPU:** Nvidia
+6. **OS:** Windows
+
+![Model Prediction Screenshot1]("C:\Users\shubh\OneDrive\Pictures\Screenshots\Screenshot 2025-12-21 111728.png")
+![Model Prediction Screenshot2]("C:\Users\shubh\OneDrive\Pictures\Screenshots\Screenshot 2025-12-21 111756.png")
+
+**Observation:** The model provides a price point closely aligned with the actual market value, demonstrating the effectiveness of the Random Forest Regressor and the feature engineering process.
+
 © 2025 | Developed by Your Name
