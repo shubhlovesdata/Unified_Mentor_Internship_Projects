@@ -100,8 +100,8 @@ Using the same configuration in our **Laptop Price Predictor** application:
 5. **GPU:** Nvidia
 6. **OS:** Windows
 
-![Model Prediction Screenshot1]("C:\Users\shubh\OneDrive\Pictures\Screenshots\Screenshot 2025-12-21 111728.png")
-![Model Prediction Screenshot2]("C:\Users\shubh\OneDrive\Pictures\Screenshots\Screenshot 2025-12-21 111756.png")
+![Model Prediction Screenshot1](https://github.com/shubhlovesdata/Unified_Mentor_Internship_Projects/blob/53f292ccfec7db021a9f2c81fefb3190f9bbf67b/Laptop%20Price%20Analysis/Screenshot%202025-12-21%20111728.png)
+![Model Prediction Screenshot2]()
 
 **Observation:** The model provides a price point closely aligned with the actual market value, demonstrating the effectiveness of the Random Forest Regressor and the feature engineering process.
 
