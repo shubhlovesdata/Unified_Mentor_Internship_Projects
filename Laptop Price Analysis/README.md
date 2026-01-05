@@ -105,4 +105,6 @@ Using the same configuration in our **Laptop Price Predictor** application:
 
 **Observation:** The model provides a price point closely aligned with the actual market value, demonstrating the effectiveness of the Random Forest Regressor and the feature engineering process.
 
-© 2025 | Developed by Shubhayan Baral
+---
+
+⭐ If you find this project useful, feel free to star the repository!
