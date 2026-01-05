@@ -9,7 +9,7 @@ This project analyzes employee attrition using the IBM HR Analytics dataset and 
 - Predict employee attrition and evaluate model performance  
 
 ## Dataset
-- Source: IBM HR Analytics Employee Attrition Dataset  
+- Source: IBM HR Analytics Employee Attrition Dataset from Kaggle(https://www.kaggle.com/datasets/pavansubhasht/ibm-hr-analytics-attrition-dataset?select=WA_Fn-UseC_-HR-Employee-Attrition.csv) 
 - Records: 1470 employees  
 - Target Variable: Attrition (Yes / No)  
 
