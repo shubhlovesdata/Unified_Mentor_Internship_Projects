@@ -11,7 +11,7 @@ E-commerce platforms face challenges in forecasting product demand due to highly
 - Support data-driven inventory and pricing decisions  
 
 ## Dataset
-- E-commerce Furniture Dataset (2024)
+- E-commerce Furniture Dataset (2024) from Kaggle(https://www.kaggle.com/datasets/kanchana1990/e-commerce-furniture-dataset-2024?select=ecommerce_furniture_dataset_2024.csv)
 - ~2000 products
 - Key features: product title, price, original price, units sold
 
