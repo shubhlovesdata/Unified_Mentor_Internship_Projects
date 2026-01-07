@@ -39,4 +39,8 @@ Random Forest outperformed Linear Regression by capturing non-linear relationshi
 ## Conclusion
 The project demonstrates a practical machine learning approach to e-commerce sales prediction. Despite limited features, the model produces stable and realistic demand forecasts and can be extended with additional data such as ratings or reviews.
 
+---
+
+⭐ If you find this project useful, feel free to star the repository!
+
 
