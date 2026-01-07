@@ -11,7 +11,7 @@ It is a classic supervised learning problem used to demonstrate classification t
 - Evaluate model performance using standard metrics
 
 ## Dataset
-- Source: Scikit-learn Iris Dataset
+- Source: dataset from Kaggle(https://www.kaggle.com/datasets/uciml/iris)
 - Records: 150 samples
 - Features:
   - Sepal Length
