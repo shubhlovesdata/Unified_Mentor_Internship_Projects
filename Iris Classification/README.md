@@ -1,5 +1,5 @@
 # Iris Flower Classification
-!(https://www.embedded-robotics.com/wp-content/uploads/2022/01/Iris-Dataset-Classification-1024x367.png)
+![image_alt](https://github.com/shubhlovesdata/Unified_Mentor_Internship_Projects/blob/16f69f78eec020e79e4d3ca06879ade4d743ade5/Iris%20Classification/Iris-Dataset-Classification-1024x367.png)
 
 This project focuses on building a machine learning model to classify iris flowers into three species — **Setosa**, **Versicolor**, and **Virginica** — based on their sepal and petal measurements.  
 It is a classic supervised learning problem used to demonstrate classification techniques and model evaluation.
