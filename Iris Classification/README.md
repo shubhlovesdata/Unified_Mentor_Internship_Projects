@@ -28,7 +28,7 @@ It is a classic supervised learning problem used to demonstrate classification t
 - Relationship between features and flower species
 - Identification of feature importance in classification
 
-## ⚙️ Machine Learning Models Used
+## Machine Learning Models Used
 The following models were implemented and evaluated:
 
 - K-Nearest Neighbors (KNN)
@@ -36,7 +36,7 @@ The following models were implemented and evaluated:
 - Support Vector Machine (SVM)
 - Decision Tree Classifier
 
-## 📈 Model Performance Comparison
+## Model Performance Comparison
 
 | Model                  | Accuracy |
 |------------------------|----------|
@@ -50,13 +50,13 @@ The following models were implemented and evaluated:
 
 The models achieve high accuracy due to the well-structured and separable nature of the Iris dataset.
 
-## 🔍 Result Analysis
+## Result Analysis
 - All models performed well with **high accuracy**, indicating the dataset is well-structured and separable.
 - **Support Vector Machine (SVM)** achieved the **highest accuracy (98.33%)**, making it the best-performing model for this project.
 - Logistic Regression and KNN also showed strong performance, confirming the reliability of the feature set.
 - Decision Tree performed slightly lower but still achieved good accuracy.
 
-## 🛠️ Tools & Technologies
+## Tools & Technologies
 - Python
 - NumPy
 - Pandas
@@ -64,7 +64,7 @@ The models achieve high accuracy due to the well-structured and separable nature
 - Scikit-learn
 - Jupyter Notebook
 
-## 🚀 Conclusion
+## Conclusion
 This project demonstrates how different machine learning algorithms can be applied to a classification problem and compared effectively.  
 Among all models, **SVM proved to be the most accurate** for Iris flower classification.
 
