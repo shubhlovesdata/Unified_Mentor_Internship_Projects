@@ -56,4 +56,6 @@ To explore this project yourself, just follow these steps:
 
 The final takeaways from this analysis are captured within the Tableau dashboards stored here. We encourage you to click through the visuals to see how Netflix's content strategy has shifted over the years.
 
-Happy exploring!
+---
+
+⭐ If you find this project useful, feel free to star the repository!
