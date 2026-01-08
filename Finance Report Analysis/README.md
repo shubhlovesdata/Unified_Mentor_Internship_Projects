@@ -4,7 +4,7 @@
 This project presents an interactive **Financial Analysis Dashboard** built using **Tableau**, designed to analyze sales, profit, and discount performance across multiple countries, products, customer segments, and time periods. The dashboard helps stakeholders quickly identify profitability drivers and areas requiring optimization.
 
 ## Dataset
-- 
+(https://github.com/shubhlovesdata/Unified_Mentor_Internship_Projects/blob/f61b76cfa156d6662a74afdfc3202b0211734fb4/Finance%20Report%20Analysis/financial_data.xlsx)
 
 ## Key KPIs
 - **Total Sales:** $118.7M  
