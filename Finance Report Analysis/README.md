@@ -3,6 +3,9 @@
 ## Overview
 This project presents an interactive **Financial Analysis Dashboard** built using **Tableau**, designed to analyze sales, profit, and discount performance across multiple countries, products, customer segments, and time periods. The dashboard helps stakeholders quickly identify profitability drivers and areas requiring optimization.
 
+## Dataset
+- 
+
 ## Key KPIs
 - **Total Sales:** $118.7M  
 - **Total Profit:** $17.67M  
